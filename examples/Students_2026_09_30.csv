@@ -1,0 +1,13 @@
+Record Id,First Name,Last Name,netID,Major,Class Of,Job Search Status,Actual Graduation Semester,Expected Graduation Semester,Start Semester,Email,Phone
+demo_t1,Demo,Seeking,demo_seek,BSFin,2027,Actively seeking,,Fall 2026,Fall 2025,demo_seek@example.test,12025550101
+demo_t2,Demo,Accepted,demo_placed,BSFin,2027,Accepted an offer,,Winter 2027,Fall 2025,demo_placed@example.test,12025550102
+demo_t3,Demo,Unreported,demo_status,BSFin,2027,Not Reported,,Winter 2027,Fall 2027,demo_status@example.test,
+demo_t4,Demo,Education,demo_education,BSFin,2027,Not seeking - Continuing education,,Spring 2027,Fall 2025,demo_education@example.test,12025550104
+demo_completed,Demo,Completed,demo_complete,BSFin,2027,Accepted an offer,Summer 2026,Fall 2026,Fall 2024,demo_complete@example.test,12025550105
+demo_outside,Demo,Outside,demo_outside,BSFin,2028,Actively seeking,,Winter 2028,Fall 2026,demo_outside@example.test,12025550106
+demo_major,Demo,OtherMajor,demo_major,MAcc,2027,Accepted an offer,,Winter 2027,Fall 2025,demo_major@example.test,12025550107
+demo_h1,Demo,Graduate2024,demo_2024,BSFin,2024,Accepted an offer,Fall 2023,Fall 2023,Fall 2021,demo_2024@example.test,12025550108
+demo_h2,Demo,Education2024,demo_edu2024,BSFin,2024,Not seeking - Continuing education,Winter 2024,Winter 2024,Fall 2022,demo_edu2024@example.test,12025550109
+demo_h3,Demo,Seeking2026,demo_2026_seek,BSFin,2026,Actively seeking,Winter 2026,Winter 2026,Fall 2024,demo_2026_seek@example.test,12025550110
+demo_h4,Demo,Accepted2026,demo_2026_accept,BSFin,2026,Accepted an offer,Spring 2026,Spring 2026,Fall 2024,demo_2026_accept@example.test,12025550111
+demo_h5,Demo,NoEmployer2026,demo_2026_missing,BSFin,2026,Accepted an offer,,Spring 2026,Fall 2024,demo_2026_missing@example.test,12025550112

@@ -1,0 +1,6 @@
+Record Id,Student ID.id,Company.id,Company,Offer Date,Accepted?,Accepted Date
+do1,demo_t2,C2,Example Finance,2026-09-20,true,2026-09-21
+do2,demo_h1,C4,Example Alumni Employer,2023-08-01,true,2023-08-02
+do3,demo_h1,C4,Example Alumni Employer,2023-08-03,false,
+do4,demo_h3,C5,Example Declined Employer,2025-08-01,false,
+do5,demo_h4,C7,Example Different Employer,2026-05-01,true,2026-05-02

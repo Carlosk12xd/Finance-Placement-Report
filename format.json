@@ -1,0 +1,32 @@
+{
+  "formatVersion": "1.0.0",
+  "font": "Arial",
+  "colors": {
+    "navy":"#002E5D", "blue":"#245A91", "text":"#25364A", "muted":"#526176",
+    "line":"#D6DEE9", "row":"#F4F7FB", "gray":"#F3F5F8",
+    "green":"#17613D", "greenLight":"#E8F4EC", "amber":"#875800", "amberLight":"#FFF1CC",
+    "red":"#A23636", "redLight":"#FBEAEA", "purple":"#655293", "purpleLight":"#F1ECFA",
+    "teal":"#1D696A", "tealLight":"#E5F3F3", "blueLight":"#EAF1FA"
+  },
+  "widths": {
+    "trackerSummary": [168,100,110,132,126,122,108,140],
+    "tracker": [125,130,160,155,245,275,170,250,150,150],
+    "review": [125,130,160,170,315,410,130,130],
+    "historicalSummary": [115,122,122,135,135,126,118,145],
+    "historicalDetail": [105,125,130,160,155,245,320,340,180,180,185,390]
+  },
+  "headers": {
+    "tracker": ["NetID","First name","Last name","Placement Status","Full-time placement Company","Most-recent internship Company","Expected Graduation date","Email Address","Cell phone #","Admit semester"],
+    "review": ["NetID","First name","Last name","Expected graduation","Issue to confirm","Suggested action","Review status","Reviewed on"],
+    "trackerStatus": ["Expected graduation","Students","Students placed","Placement rate","Actively Seeking","Not Seeking","no status","Internship recorded"],
+    "trackerCoverage": ["Expected graduation","Internship recorded","Internship coverage","No internship reported","Accepted company recorded","Accepted employer unreported","Email missing","Phone missing"],
+    "historicalDetail": ["Class of","NetID","First name","Last name","Placement Status","Accepted full-time Company","Recorded internship companies","Recorded full-time offer companies","Internship employer offered FT","Internship employer offer accepted","Actual graduation semester","Items to confirm"],
+    "historicalStatus": ["Class of","Students","Students placed","Placement rate","Actively Seeking","Not Seeking","no status","Change vs prior class"],
+    "historicalCoverage": ["Class of","Internship recorded","Internship coverage","No internship reported","FT offer recorded","Accepted FT record","Accepted employer unreported","Actual graduation unreported"],
+    "internshipEmployerCounts": ["Class of","Students offered FT by internship employer","Students accepting FT from internship employer"]
+  },
+  "workbooks": {
+    "tracker": ["Placement Summary","Placement Tracker","Review"],
+    "historical": ["Placement Summary","Student Detail"]
+  }
+}

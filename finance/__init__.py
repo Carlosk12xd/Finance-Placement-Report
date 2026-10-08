@@ -1,0 +1,1 @@
+"""Portable Finance report generator."""

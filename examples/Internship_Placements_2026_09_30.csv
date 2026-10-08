@@ -1,0 +1,10 @@
+Record Id,Student ID.id,Company.id,Company,Start Date
+di1,demo_t1,C0,Older Example Employer,2025-06-01
+di2,demo_t1,C1,"Example, Inc.",2026-06-01
+di3,demo_t1,C9,Future Example Employer,2026-12-01
+di4,demo_t2,C2,Example Finance,2026-06-01
+di5,demo_t4,C3,Example Education,
+di6,demo_h1,C4,Example Alumni Employer,2022-06-01
+di7,demo_h1,C4,Example Alumni Employer,2023-06-01
+di8,demo_h3,C5,Example Declined Employer,2025-06-01
+di9,demo_h4,C6,Example Other Internship,

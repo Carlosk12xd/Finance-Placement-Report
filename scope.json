@@ -1,0 +1,8 @@
+{
+  "major": "BSFin",
+  "trackerClassLabel": "2027",
+  "trackerTerms": ["Fall 2026", "Winter 2027", "Spring 2027"],
+  "trackerTermLabels": ["Fall 2026 (December)", "Winter 2027 (April)", "Spring 2027 (June)"],
+  "historicalClasses": [2024, 2025, 2026],
+  "excludeCompletedGraduatesFromTracker": true
+}

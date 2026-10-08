@@ -1,0 +1,17 @@
+{
+  "formatVersion": "1.0.0",
+  "appVersion": "1.0.0",
+  "sha256": {
+    "scope.json": "08a16412554539453fc42cc01eb68e3f63646782e1617e56cc13b08dd3746b91",
+    "format.json": "315115f65967d483d04af1a7874b72fd763fc8b991757691fc4a26facc0bb14d",
+    "layout_reference.json": "b57449db4d44748e45368f70f8b9b4bc5b0a1c63bf5750386f06e9ca7418cc9e",
+    "verify_reports.py": "4b1c8b2f2f70d4f33ef0437dac0eea5caea3a4064aba8ea660951d8b43617f02",
+    "finance/logic.py": "1b563e069b4d3cb3a1a16ff650e0d85856539fe5da246ae0e1db45968529f4b7",
+    "finance/uploads.py": "988aaa992a4d66258914145a9076312cdb36e8ca51188159b41cb9655754a3c9",
+    "finance/exporter.py": "25d92ad6c8b1a68ee04753466fdb81225178586af359cfe2a7b027e97b6e9605",
+    "finance/service.py": "8a3c9d6a5e595b6e9fb162c60bd2e48d0af72c55463f3e168706e184248f7388",
+    "app.py": "49f204950ec7a6eefb483643326e6b897b81a06151d175b58f562bccab64a2d7",
+    "assets/tracker_template.xlsx": "697ac311cecea258667c92b9ee5e881dc8ab1dc5c0ee105935c0db3018311713",
+    "assets/historical_template.xlsx": "f6047ddc3a4f46fbb905e12633f28803b6ba00aa161c676c763bf7f8cf1022eb"
+  }
+}
